@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+	"credit": "Made with Blockbench",
+>>>>>>> 136bbd47f85a0809335d12d9c469a9f4097f1af0
 	"textures": {
 		"0": "peppebrescia:block/stairs",
 		"particle": "peppebrescia:block/stairs"
@@ -30,5 +34,30 @@
 				"down": {"uv": [0, 0, 16, 8], "rotation": 180, "texture": "#0"}
 			}
 		}
+<<<<<<< HEAD
 	]
+=======
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+>>>>>>> 136bbd47f85a0809335d12d9c469a9f4097f1af0
 }
